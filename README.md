@@ -54,6 +54,6 @@ This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your o
 ---
 
 ## ❤️ Credits
-*   **Developed and maintained by Perzaan Gaming (Discord: Perzaan).
+*  Developed and maintained by Perzaan Gaming (Discord: Perzaan).
 
 **License**: MIT License
