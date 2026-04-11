@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "perzaanpub.aternos.me",
+    "ip": "example.aternos.me",
     "port": 27654,
     "version": "",
     "try-creative": false
