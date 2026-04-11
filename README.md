@@ -54,6 +54,6 @@ This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your o
 ---
 
 ## ❤️ Credits
-*   **Perzaan (Discord: Perzaan Gaming** — Original creator & idea. (The GOAT 🐐)
+*   **Developed and maintained by Perzaan Gaming (Discord: Perzaan).
 
 **License**: MIT License
