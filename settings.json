@@ -8,7 +8,7 @@
   "server": {
     "ip": "example.aternos.me",
     "port": 27654,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
